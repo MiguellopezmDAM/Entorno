@@ -5,7 +5,7 @@ public class Menu {
 		// TODO Auto-generated method stub
 		System.out.println("Hola este es el proyecto con GitHub");
 		System.out.println("Hola este es el apartado 3");
-		System.out.ptintln("Hola este es apartado 8");
+		System.out.println("Hola este es apartado 8");
 	}
 
 }
